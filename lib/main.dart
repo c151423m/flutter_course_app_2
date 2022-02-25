@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Icon(Icons.coffee),
+                Icon(Icons.coffee_maker),
                 Text('WELCOME'),
               ],
             ),
